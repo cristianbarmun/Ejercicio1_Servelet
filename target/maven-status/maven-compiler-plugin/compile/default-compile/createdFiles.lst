@@ -5,4 +5,5 @@ main\java\res\DepartamentoDAO.class
 main\java\res\Departamento.class
 main\java\res\Empleado.class
 main\java\res\HibernateUtil.class
+servlet\MostrarEmpleado.class
 main\java\res\EmpleadoHome.class
